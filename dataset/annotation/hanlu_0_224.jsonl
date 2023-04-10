@@ -1,0 +1,225 @@
+{"id":856,"text":"The system shall refresh the display every 60 seconds.","label":[[18,25,"concern"],[38,54,"concern"]]}
+{"id":857,"text":"The application shall match the color of the schema set forth by Department of Homeland Security","label":[[23,38,"concern"]]}
+{"id":858,"text":"If projected  the data must be readable.  On a 10x10 projection screen  90% of viewers must be able to read Event / Activity data from a viewing distance of 30","label":[[33,41,"concern"],[49,72,"concern"],[74,89,"concern"],[106,132,"concern"],[148,163,"concern"]]}
+{"id":859,"text":"The product shall be available during normal business hours. As long as the user has access to the client PC  the system will be available 99% of the time during the first six months of operation.","label":[[23,32,"concern"],[40,61,"concern"],[87,93,"concern"],[141,157,"concern"],[169,185,"concern"]]}
+{"id":860,"text":"If projected  the data must be understandable. On a 10x10 projection screen  90% of viewers must be able to determine that Events or Activities are occuring in current time from a viewing distance of 100","label":[[33,47,"concern"],[54,77,"concern"],[79,94,"concern"],[111,146,"concern"],[191,206,"concern"]]}
+{"id":861,"text":"The product shall ensure that it can only be accessed by authorized users.  The product will be able to distinguish between authorized and unauthorized users in all access attempts","label":[[38,74,"concern"],[105,116,"concern"],[162,181,"concern"]]}
+{"id":862,"text":"The product shall be intuitive and self-explanatory.  :  90% of new users shall be able to start the display of Events or Activities within 90 minutes of using the product.","label":[[22,31,"concern"],[36,52,"concern"],[58,75,"concern"],[93,110,"concern"],[142,152,"concern"]]}
+{"id":863,"text":"The product shall respond fast to keep up-to-date data in the display.","label":[[19,31,"concern"]]}
+{"id":864,"text":"The system shall have a MDI form that allows for the viewing of the graph and the data table.","label":[[54,93,"concern"]]}
+{"id":865,"text":"The system shall display Events in a vertical table by time.","label":[[18,32,"concern"]]}
+{"id":866,"text":"The system shall display the Events in a graph by time.","label":[[18,36,"concern"],[48,55,"concern"]]}
+{"id":867,"text":"The system shall display Events or Activities.","label":[[18,46,"concern"]]}
+{"id":868,"text":"The display shall have two regions:  left 2/3 of the display is graphical  right 1/3 of the display is a data table","label":[[39,47,"concern"],[77,86,"concern"]]}
+{"id":869,"text":"The data displayed in both the nodes within the graph and the rows in the table are MSEL Summary data","label":[[10,19,"concern"],[85,102,"concern"]]}
+{"id":870,"text":"The table side of the display shall be split into 2 regions: sequential and temporal.","label":[[23,30,"concern"],[40,60,"concern"]]}
+{"id":871,"text":"The top 1/4 of the table will hold events that are to occur sequentially.","label":[[5,12,"concern"],[31,42,"concern"]]}
+{"id":872,"text":"The bottom 3/4 of the table will hold events that occur according to its relevance to current time.","label":[[5,15,"concern"],[34,45,"concern"]]}
+{"id":873,"text":"The system shall color code events according to their variance from current time.","label":[[18,35,"concern"]]}
+{"id":874,"text":"The system shall display data from the Sync Matrix 1.0 and Exercise Management Tool 1.0 applications","label":[[18,30,"concern"],[40,55,"concern"],[60,101,"concern"]]}
+{"id":875,"text":"The system shall link Events back to either the Sync Matrix 1.0 or the Exercise Managment Tool 1.0 applications for modifications.","label":[[18,29,"concern"],[49,64,"concern"],[72,112,"concern"],[117,130,"concern"]]}
+{"id":876,"text":"The system shall allow modification of the display.","label":[[18,36,"concern"]]}
+{"id":877,"text":"The system shall offer a display of all the Events in the exercise.","label":[[18,33,"concern"]]}
+{"id":878,"text":"The system shall filter data by: Venues and Key Events.","label":[[18,29,"concern"]]}
+{"id":879,"text":"The system shall allow a user to define the time segments","label":[[34,58,"concern"]]}
+{"id":880,"text":"The system shall display the local and exercise time in separate clocks","label":[[18,53,"concern"]]}
+{"id":881,"text":"The system shall offer the ability to pause and resume the refresh of data.","label":[[39,75,"concern"]]}
+{"id":882,"text":"The system shall provide charts for the Activity or Event actual versus assumed time.","label":[[18,32,"concern"]]}
+{"id":883,"text":"The system shall provide a history report of changes made to the Activity or Event data","label":[[18,42,"concern"]]}
+{"id":884,"text":"The look and feel of the system shall conform to the user interface standards of the smart device.","label":[[39,78,"concern"]]}
+{"id":885,"text":"The user interface shall have standard menus  buttons for navigation","label":[[27,55,"concern"]]}
+{"id":886,"text":"The system shall have a professional appearance","label":[[25,48,"concern"]]}
+{"id":887,"text":"The product shall have a consistent color scheme and fonts.","label":[[26,59,"concern"]]}
+{"id":888,"text":"The system shall be used by realtors with no training.","label":[[21,54,"concern"]]}
+{"id":889,"text":"The system shall be intuitive and self explanatory.","label":[[21,51,"concern"]]}
+{"id":890,"text":"The product shall be easy for a realtor to learn.","label":[[22,49,"concern"]]}
+{"id":891,"text":"The product shall use symbols and words that are naturally understandable by the realtor community.","label":[[19,40,"concern"]]}
+{"id":892,"text":"The product shall produce search results in an acceptable time","label":[[19,41,"concern"]]}
+{"id":893,"text":"The search results shall be returned no later 30      seconds  after the user has entered the search criteria","label":[[29,37,"concern"],[47,62,"concern"]]}
+{"id":894,"text":"The product shall generate a CMA report in an acceptable time.","label":[[19,40,"concern"],[47,62,"concern"]]}
+{"id":895,"text":"The CMA report shall be returned no later 60 seconds after the user has entered the CMA report criteria.","label":[[25,33,"concern"],[43,53,"concern"]]}
+{"id":896,"text":"The product shall synchronize contacts and appointments in an acceptable time.","label":[[19,56,"concern"],[63,78,"concern"]]}
+{"id":897,"text":"The product shall synchronize with the office system every hour.","label":[[19,64,"concern"]]}
+{"id":898,"text":"The product shall be available for use 24 hours per day  365 days  per year","label":[[23,32,"concern"],[41,77,"concern"]]}
+{"id":899,"text":"Out of 1000 accesses to the system  the system is available 999 times.","label":[[9,22,"concern"],[52,71,"concern"]]}
+{"id":900,"text":"The product shall operate in offline mode whenever internet connection is unavailable.","label":[[19,42,"concern"]]}
+{"id":901,"text":"The product shall allow the user to view previously downloaded search results  CMA reports  and appointments.","label":[[38,79,"concern"]]}
+{"id":902,"text":"The product shall retain user preferences in the event of a failure.","label":[[19,42,"concern"]]}
+{"id":903,"text":"100% of saved user preferences shall be restored when system comes back online.","label":[[1,6,"concern"],[42,50,"concern"]]}
+{"id":904,"text":"The product shall be able to support multiple remote users","label":[[30,59,"concern"]]}
+{"id":905,"text":"The product shall be able support 1000 simultaneous users.","label":[[27,58,"concern"]]}
+{"id":906,"text":"The product shall be capable of handling the existing 1000 users. This number is expected to grow 5 times within the next year.","label":[[22,29,"concern"],[55,65,"concern"],[99,106,"concern"],[118,127,"concern"]]}
+{"id":907,"text":"The product shall be installed by an untrained realtor   without recourse to separately-printed instructions.","label":[[22,31,"concern"],[58,109,"concern"]]}
+{"id":908,"text":"90% of untrained realtors shall be able to install the product on their device without printed instructions","label":[[1,5,"concern"],[45,64,"concern"]]}
+{"id":909,"text":"The product is expected to run on Windows CE and Palm operating systems.","label":[[28,45,"concern"],[50,72,"concern"]]}
+{"id":910,"text":"Only registered realtors shall be able to access the system.","label":[[1,25,"concern"],[43,60,"concern"]]}
+{"id":911,"text":"Every user of the system shall be authenticated and authorized.","label":[[1,11,"concern"],[35,63,"concern"]]}
+{"id":912,"text":"The product shall prevent its data from incorrect data being introduced.","label":[[19,35,"concern"]]}
+{"id":913,"text":"The system shall allow a real estate agent to query MLS information","label":[[47,68,"concern"]]}
+{"id":914,"text":"The user shall be able to get driving directions to a selected property","label":[[27,49,"concern"]]}
+{"id":915,"text":"The user shall be able to download appointments and contact information for clients","label":[[27,72,"concern"]]}
+{"id":916,"text":"The system shall display clear property images in the search results","label":[[18,47,"concern"]]}
+{"id":917,"text":"The system shall update or create new property listings in the MLS","label":[[18,56,"concern"]]}
+{"id":918,"text":"Realtor shall be able to generate a CMA report based on property criteria","label":[[26,47,"concern"]]}
+{"id":919,"text":"The system shall be able to call the seller or buyer to schedule an appointment","label":[[29,53,"concern"],[57,80,"concern"]]}
+{"id":920,"text":"The realtor shall be notified of new client appointments after automatic synchronization with office system","label":[[22,57,"concern"]]}
+{"id":921,"text":"The realtor shall be able to retrieve a map showing property locations for a specified area","label":[[30,44,"concern"]]}
+{"id":922,"text":"The system shall notify the realtor when a seller or buyer responds to an appointment request","label":[[18,36,"concern"]]}
+{"id":923,"text":"The product shall allow the user to save the property search results.","label":[[37,69,"concern"]]}
+{"id":924,"text":"The system shall be easy to use by the Program Administrators/Nursing Staff Members.","label":[[21,32,"concern"]]}
+{"id":925,"text":"All of the users shall be able to use the system after one day of training.","label":[[35,75,"concern"]]}
+{"id":926,"text":"The system shall help the user avoid making mistakes while scheduling classes and clinicals for the nursing students.","label":[[32,53,"concern"]]}
+{"id":927,"text":"The number of mistakes noted by the students shall be decreased by 50% in the first year.","label":[[55,64,"concern"],[68,72,"concern"],[80,90,"concern"]]}
+{"id":928,"text":"The system shall be intuitive to the Program Administrators/Nursing Staff Members.","label":[[21,30,"concern"]]}
+{"id":929,"text":"2 out of 3 Program Administrators/Nursing Staff Members shall successfully be able to use the system to manage the scheduling of classes and clinicals.","label":[[1,11,"concern"],[87,101,"concern"]]}
+{"id":930,"text":"The system shall use symbols and words that are naturally understandable by the user community.","label":[[18,39,"concern"]]}
+{"id":931,"text":"The verbiage used within the system shall be consistent with Standard English and the terminology of the national Nursing Community.","label":[[46,56,"concern"]]}
+{"id":932,"text":"Staff members shall be able to complete a set of tasks in a timely manner.","label":[[32,55,"concern"],[61,74,"concern"]]}
+{"id":933,"text":"The response time of general student management tasks shall take no longer than 5 seconds and the response time of schedule generation shall take no longer than 30 seconds.","label":[[81,90,"concern"],[162,172,"concern"]]}
+{"id":934,"text":"The system shall be available for use between the hours of 8am and 6pm.","label":[[21,38,"concern"],[60,71,"concern"]]}
+{"id":935,"text":"The system shall achieve 95% up time.","label":[[26,30,"concern"]]}
+{"id":936,"text":"system shall be able to handle all of the user requests/usage during business hours.","label":[[25,62,"concern"],[70,84,"concern"]]}
+{"id":937,"text":"The system shall cater to 10 simultaneous users from 9am to 5pm.","label":[[18,23,"concern"],[27,48,"concern"],[54,64,"concern"]]}
+{"id":938,"text":"The system shall be capable of processing 100% of nursing students and their classes for the next 10 years.","label":[[21,28,"concern"],[43,48,"concern"],[100,102,"concern"],[103,108,"concern"]]}
+{"id":939,"text":"The system shall be expected to manage the nursing program curriculum and class/clinical scheduling for a minimum of 5 years.","label":[[33,39,"concern"],[107,125,"concern"]]}
+{"id":940,"text":"The system shall able to operate within a business office environment typical of the Nursing Department at DePaul University.","label":[[26,70,"concern"]]}
+{"id":941,"text":"The system shall be used within the specifications defined by the computers used by the Program Administrators/Nursing Staff Members.","label":[[21,25,"concern"]]}
+{"id":942,"text":"The system shall operate within the Windows XP Professional operating system.","label":[[18,25,"concern"]]}
+{"id":943,"text":"The system shall interface with CampusConnect鈥檚 central server","label":[[17,26,"concern"]]}
+{"id":944,"text":"The system shall interface with the faculty central server.","label":[[18,27,"concern"]]}
+{"id":945,"text":"The system shall interface with the student master server.","label":[[18,27,"concern"]]}
+{"id":946,"text":"We must be able to interface with any HTML browser.","label":[[20,29,"concern"]]}
+{"id":947,"text":"Only authorized users shall have access to clinical site information.","label":[[34,69,"concern"]]}
+{"id":948,"text":"Program Administrators/Nursing Staff Members are the only people who shall have access to clinical site details.","label":[[81,112,"concern"]]}
+{"id":949,"text":"Only authorized users shall have access to students鈥?personal information.","label":[[33,39,"concern"]]}
+{"id":950,"text":"Dr Susan Poslusny and Dr Julie Donalek are the only people who shall have access to students鈥?personal information.","label":[[74,80,"concern"]]}
+{"id":951,"text":"Only authorized users shall have access to the portion of the system that interfaces with CampusConnect.","label":[[34,40,"concern"]]}
+{"id":952,"text":"Fit Criterion: Dr Susan Poslusny and Karen Sysol are the only people who shall have access to the final class section scheduling for the system that interfaces with CampusConnect.","label":[[85,91,"concern"]]}
+{"id":953,"text":"The system shall have basic data integrity checking to reduce the possibility of incorrect or invalid data being introduced.","label":[[56,78,"concern"]]}
+{"id":954,"text":"The system shall protect private information in accordance with the organization鈥檚 information policy.","label":[[17,44,"concern"]]}
+{"id":955,"text":"The system shall be built such that it is as secure as possible from malicious interference.","label":[[21,26,"concern"],[46,52,"concern"]]}
+{"id":956,"text":"The system shall use the organization鈥檚 standard virus protection software to help monitor threats to itself.","label":[[17,37,"concern"],[83,98,"concern"]]}
+{"id":957,"text":"A cohort shall be associated to one Program of Study offered by the department.","label":[[19,29,"concern"]]}
+{"id":958,"text":"Program Administrators and Nursing Staff Members shall be able to add a listing of students to a cohort.","label":[[67,80,"concern"]]}
+{"id":959,"text":"Program Administrators and Nursing Staff Members shall be able to add a single student to a cohort","label":[[67,87,"concern"]]}
+{"id":960,"text":"Students added to a cohort shall be eligible for the cohort鈥檚 Program of Study.","label":[[36,44,"concern"]]}
+{"id":961,"text":"Program Administrators and Nursing Staff Members shall be able to specify the preferred sequence of classes for a given cohort.","label":[[67,74,"concern"]]}
+{"id":962,"text":"For each class within a sequence for a cohort  Program Administrators and Nursing Staff Members shall be able to specify which quarter that class will be offered.","label":[[115,122,"concern"]]}
+{"id":963,"text":"For each class within a sequence for a cohort  Program Administrators and Nursing Staff Members shall be able to specify which quarter that class will be offered.","label":[[115,122,"concern"]]}
+{"id":964,"text":"Program Administrators and Nursing Staff Members shall be able to add new classes to a sequence of classes","label":[[67,70,"concern"]]}
+{"id":965,"text":"Program Administrators and Nursing Staff Members shall be able to add clinical classes or sections to a sequence of classes","label":[[67,70,"concern"]]}
+{"id":966,"text":"Program Administrators and Nursing Staff Members shall be able to add a new cohort to the system  identified by start month and year.","label":[[68,71,"concern"]]}
+{"id":967,"text":"Program Administrators and Nursing Staff Members shall be able to add new classes for the nursing department into the system.","label":[[67,70,"concern"]]}
+{"id":968,"text":"A class shall be either a non-clinical class or a clinical class.","label":[[18,65,"concern"]]}
+{"id":969,"text":"A non-clinical class shall specify the course name  lecture room requirements  and instructor needs.","label":[[29,47,"concern"]]}
+{"id":970,"text":"A clinical class shall specify the course name  lecture room requirements  clinical site needs  lecture instructor needs  and clinical lab instructor needs.","label":[[25,48,"concern"]]}
+{"id":971,"text":"Program Administrators/Nursing Staff Members shall be able to create a new Program of Study.","label":[[63,83,"concern"]]}
+{"id":972,"text":"A Program of Study shall consist of a program name and listing of required classes (both clinical and non-clinical) that must be completed.","label":[[26,33,"concern"]]}
+{"id":973,"text":"Program Administrators and Nursing Staff Members shall have the ability to specify which classes are required for a Program of Study","label":[[76,83,"concern"]]}
+{"id":974,"text":"The system shall be able to display a report of needed classes for a given quarter for all cohorts of all programs for Program Administrators/Nursing Staff Members鈥?planning purposes.","label":[[28,35,"concern"]]}
+{"id":975,"text":"The report of needed classes shall include (but not be limited to) classes to be offered  number of sections needed  number of labs needed  and room types needed.","label":[[37,44,"concern"]]}
+{"id":976,"text":"Classes for a given cohort shall not conflict with regards to the time and day that they are offered.","label":[[34,46,"concern"]]}
+{"id":977,"text":"Program Administrators and Nursing Staff Members shall be able to add a new clinical site into the system.","label":[[67,90,"concern"]]}
+{"id":978,"text":"Clinical site information shall include (but not be limited to) the name of the site  contact person  and contact information.","label":[[34,41,"concern"],[66,86,"concern"]]}
+{"id":979,"text":"Program Administrators and Nursing Staff Members shall be able to add a new clinical lab section for an existing clinical class into the System.","label":[[67,97,"concern"]]}
+{"id":980,"text":"A clinical lab section shall include the clinical site name  the class  instructor  day and time of the lab.","label":[[31,56,"concern"]]}
+{"id":981,"text":"Program Administrators and Nursing Staff Members shall be able to add a student who has registered for a clinical class to a clinical lab section for that class.","label":[[67,80,"concern"]]}
+{"id":982,"text":"The system shall allow a Program Administrator or Nursing staff member to remove a student from a clinical lab section.","label":[[75,91,"concern"]]}
+{"id":983,"text":"The system shall allow a Program Administrator/Nursing Staff Member to move a student from one clinical lab section to another clinical lab section corresponding to the same clinical class.","label":[[72,86,"concern"]]}
+{"id":984,"text":"Program Administrators/Nursing Staff Members shall be able to cancel a clinical lab section only if there are no students registered for that clinical lab section.","label":[[63,92,"concern"]]}
+{"id":985,"text":"A Program Administrator/Nursing Staff Member shall be able to add a new nursing student to the system.","label":[[63,88,"concern"]]}
+{"id":986,"text":"A staff member shall have the ability to manage the progress of a part time student  which includes modifying their sequence of classes and timeline of classes.","label":[[43,62,"concern"]]}
+{"id":987,"text":"The system shall be able to display a printable summary for individual cohorts  which will include the students enlisted  the Program of study  sequence of classes  cohort progress through the program  and timeline of completion.","label":[[30,57,"concern"]]}
+{"id":988,"text":"The system shall be able to display a printable summary for individual clinical sites  which will include information on labs being held at that site for the given quarter (Clinical site  general information on labs held at that location  dates and times of all labs held there).","label":[[30,57,"concern"]]}
+{"id":989,"text":"The system shall be able to display a printable summary for individual clinical labs  which will include (but not be limited to) class name  class number  lab section  listing of students enrolled  instructor  day(s)  time  and location.","label":[[30,57,"concern"]]}
+{"id":990,"text":"The system shall be able to display a printable summary for individual nursing students  which will include (but not be limited to) student name  student ID  admission date  classes  credits  GPA  and the cohort that the student is enrolled in.","label":[[30,57,"concern"]]}
+{"id":991,"text":"The system shall be able to display a printable summary of the system log.","label":[[29,56,"concern"]]}
+{"id":992,"text":"The system shall contain contact information (e-mail and phone number) for all people relevant to the system  including (but not limited to) staff members  students  lecture instructors  clinical lab instructors  and clinical site administrators.","label":[[19,46,"concern"]]}
+{"id":993,"text":"The system will use the stored e-mail addresses as a primary means of communicating information to affected parties.","label":[[17,48,"concern"]]}
+{"id":994,"text":"The system will notify affected parties for routine communication purposes  including but not limited to informing students of upcoming offered classes (timeline) and what their schedule will be/shall be.","label":[[18,41,"concern"]]}
+{"id":995,"text":"The system will notify affected parties when changes occur affecting clinicals  including but not limited to clinical section capacity changes  and clinical section cancellations.","label":[[18,41,"concern"]]}
+{"id":996,"text":"The system will notify affected parties when changes occur affecting classes  including but not limited to class cancellations  class section detail changes  and changes to class offerings for a given quarter.","label":[[18,41,"concern"]]}
+{"id":997,"text":"The system will notify affected parties when changes occur affecting cohorts  including but not limited to changes to the sequence for a cohort鈥檚 program of study and changes to a given week鈥檚 schedule (lab cancelled this week due to instructor illness).","label":[[17,40,"concern"]]}
+{"id":998,"text":"The system will notify affected parties when changes occur affecting specific students  including but not limited to changing a student鈥檚 status from full time to part time and moving a student to a different clinical section.","label":[[17,40,"concern"]]}
+{"id":999,"text":"Program Administrators/Nursing Staff Members shall have the ability to modify information relating to cohorts  including cohort identifier  program of study  preferred sequence of classes and quarters that a cohort will be taking specific classes.","label":[[73,91,"concern"]]}
+{"id":1000,"text":"Program Administrators/Nursing Staff Members shall have the ability to modify information relating to a Program of Study within the Nursing Department  including the Program of study name  and required classes for that Program of Study.","label":[[73,91,"concern"]]}
+{"id":1001,"text":"Program Administrators/Nursing Staff Members shall have the ability to modify information relating to a Clinical Site  including the clinical site name  site contact person  contact information  and address.","label":[[73,91,"concern"]]}
+{"id":1002,"text":"Program Administrators/Nursing Staff Members shall have the ability to modify information relating to a Clinical Lab Section  including the clinical site name  the department/section for the lab  the class  instructor  day and time of lab  and contact information.","label":[[73,91,"concern"]]}
+{"id":1003,"text":"Program Administrators/Nursing Staff Members shall have the ability to modify information relating to a Nursing Student  including student ID  student name  phone number  e-mail  status (full time or part time)  and program of study.","label":[[73,91,"concern"]]}
+{"id":1004,"text":"The Disputes application shall comply with the corporate standards for user interface creation for internally and externally used applications.","label":[[32,67,"concern"]]}
+{"id":1005,"text":"All screens created as part of the Disputes application must comply with corporate standards for interface creation.","label":[[62,93,"concern"]]}
+{"id":1006,"text":"The list of dispute cases that are displayed after a search is performed must be color coded for easy identification of dispute cases based upon the dispute case status.","label":[[82,93,"concern"]]}
+{"id":1007,"text":"100% of the cardmember and merchant services representatives shall use the Disputes application regularly after a 2-day training course.","label":[[1,6,"concern"],[69,97,"concern"],[98,108,"concern"],[116,137,"concern"]]}
+{"id":1008,"text":"100% of cardmember services representatives shall be able to successfully create a dispute case on the first encounter after completing the training course.","label":[[1,6,"concern"],[63,76,"concern"],[76,97,"concern"]]}
+{"id":1009,"text":"100% of merchant services representatives shall be able to successfully perform a follow up action on a dispute case on the first encounter after completing the training course.","label":[[1,6,"concern"],[61,73,"concern"],[74,100,"concern"]]}
+{"id":1010,"text":"The maximum wait time for a user navigating from one screen to another within the Disputes application shall be no more than 5 seconds.","label":[[5,22,"concern"],[34,44,"concern"],[126,135,"concern"]]}
+{"id":1011,"text":"The Disputes application shall support 350 concurrent users without any degradation of performance in the application.","label":[[32,39,"concern"],[40,60,"concern"]]}
+{"id":1012,"text":"The Disputes application shall be available 24x7x365  with the exception of the following scheduled maintenance windows.  Monday 鈥?Saturday 3:00am to 4:00am EST Sunday 1:00amd to 5:00am EST","label":[[35,44,"concern"],[45,53,"concern"],[141,157,"concern"],[169,186,"concern"]]}
+{"id":1013,"text":"The Disputes application shall interface with the Statement Database. The Statement Database provides the transaction details to the Disputes System. All transaction details must be obtained from the Statement Database","label":[[32,41,"concern"],[94,126,"concern"],[183,191,"concern"]]}
+{"id":1014,"text":"The Disputes application shall interface with the Cardmember Information Database.  The Cardmember Information Database provides detailed information with regard to a cardmember.  All cardmember detail information must be obtained from the Cardmember Information Database.","label":[[32,41,"concern"],[121,150,"concern"],[223,231,"concern"]]}
+{"id":1015,"text":"The Disputes applications shall interface with the Merchant Information Database.  The Merchant Information Database provides detailed information with regard to the merchant. All merchant detail information shall be obtained from the Merchant Information Database.","label":[[33,42,"concern"],[118,147,"concern"],[218,226,"concern"]]}
+{"id":1016,"text":"The Disputes application shall interface with the Letters application.  This will allow the Disputes application to request letters as part of the dispute initiation and dispute follow up process. All letter requests must be sent to the Print Letter Utility application.","label":[[32,41,"concern"],[117,132,"concern"],[226,230,"concern"]]}
+{"id":1017,"text":"The Disputes application shall interface with the Cardmember Posting and Billing System.  This will allow the Disputes application to request adjustments to cardmember and merchant鈥檚 accounts. All adjustment requests must be sent to the Cardmember Posting and Billing System.","label":[[31,40,"concern"],[134,153,"concern"],[225,229,"concern"]]}
+{"id":1018,"text":"The Disputes application shall ensure that only users with the appropriate access level are allowed to initiate dispute requests.","label":[[104,129,"concern"]]}
+{"id":1019,"text":"Only users with Update access must be able to initiate dispute requests.","label":[[47,72,"concern"]]}
+{"id":1020,"text":"The Disputes application shall ensure that only authorized users are allowed to logon to the application.","label":[[81,105,"concern"]]}
+{"id":1021,"text":"All authorized users  once authenticated must be able to logon to the Disputes System","label":[[59,87,"concern"]]}
+{"id":1022,"text":"The Disputes System shall generate a User Report that details any new users that have been added and any changes to an existing user鈥檚 access level.  The report will be reviewed for auditing purposes.","label":[[26,48,"concern"],[169,177,"concern"]]}
+{"id":1023,"text":"All additions of new users and modifications to user鈥檚 access shall be recorded on the User Report.","label":[[71,79,"concern"]]}
+{"id":1024,"text":"If a user account is revoked  it can only be re-instantiated by the System Administrator.","label":[[47,62,"concern"]]}
+{"id":1025,"text":"Only the System Administrator shall be able to reset a revoked user logon account","label":[[48,82,"concern"]]}
+{"id":1026,"text":"The Disputes application shall manipulate and view business data. Users will not have direct access to data files or databases.","label":[[32,65,"concern"]]}
+{"id":1027,"text":"All updates to data files or database must be initiated from the Disputes System.","label":[[47,56,"concern"]]}
+{"id":1028,"text":"The Disputes application must conform to the legal requirements as specified by the Merchant Operating Regulations.","label":[[31,38,"concern"]]}
+{"id":1029,"text":"All business rules specified in the Disputes System shall be in compliance with the Merchant Operating Regulations.","label":[[62,75,"concern"]]}
+{"id":1030,"text":"The Disputes application must conform to the legal requirements as specified by Regulation E and Regulation Z that govern credit card disputes processing.","label":[[31,38,"concern"]]}
+{"id":1031,"text":"All business rules specified in the Disputes System shall be in compliance to the guidelines of Regulation E and Regulation Z.","label":[[62,75,"concern"]]}
+{"id":1032,"text":"The Disputes application must maintain a detailed history of every action that a user takes on a dispute case.  This ensures a complete audit trail if questions arise later on with regard to a particular dispute case.","label":[[31,58,"concern"]]}
+{"id":1033,"text":"All actions that modify an existing dispute case must be recorded in the case history.","label":[[58,66,"concern"]]}
+{"id":1034,"text":"The Disputes System must be accessible by both internal and external users.","label":[[29,39,"concern"]]}
+{"id":1035,"text":"The Disputes System must prevent users from accessing any dispute cases that do not belong to their cardholder base.","label":[[26,39,"concern"]]}
+{"id":1036,"text":"The Disputes System will facilitate direct data entry of a dispute case via a user interface that supports real time responses to the users.","label":[[26,54,"concern"]]}
+{"id":1037,"text":"The Disputes System must provide different levels of access with regard to disputes case initiation and follow-up actions.","label":[[26,50,"concern"]]}
+{"id":1038,"text":"The Disputes System shall provide view access capability for authorized users of the application.","label":[[35,57,"concern"]]}
+{"id":1039,"text":"The Disputes System shall provide update access capability for authorized users of the application.","label":[[35,59,"concern"]]}
+{"id":1040,"text":"The Disputes System must allow the users to select disputable transactions (based on the age of the transaction) from a user interface and initiate a dispute (ticket retrieval request or chargeback notification) on the selected transaction.","label":[[45,75,"concern"]]}
+{"id":1041,"text":"The Disputes System must provide the user the ability to initiate a single dispute case on multiple transactions that belong to a single merchant.","label":[[58,88,"concern"]]}
+{"id":1042,"text":"The Disputes System will provide the user the ability to create or initiate a ticket retrieval request.   As part of ticket retrieval creation process the system must prompt the user to enter all the required information to create the ticket retrieval request.  The ticket retrieval request is a document that is sent to merchant inquiring the validity of a transaction.","label":[[58,103,"concern"],[168,183,"concern"]]}
+{"id":1043,"text":"The Disputes System must allow the user to create three unique types of ticket retrieval requests.  The three types of ticket retrieval requests are (1) Request for original receipt (2) Request for a copy of the receipt or (3) Request for a portfolio. A portfolio consists of documentation that would provide proof of a purchase such as the documentation that is received from a car rental agency that is more than a sales receipt.","label":[[44,98,"concern"],[302,315,"concern"]]}
+{"id":1044,"text":"The Disputes System must prevent external users from requesting original receipts. Requests for original receipts are restricted to internal users.","label":[[26,48,"concern"]]}
+{"id":1045,"text":"The Disputes System must provide a confirmation to the user upon the creation of ticket retrieval request that contains the following information; the dispute case number  the type of retrieval requested (copy  original or portfolio)  and the date that the merchant response is due.","label":[[27,49,"concern"]]}
+{"id":1046,"text":"The Disputes System shall allow the user to create or initiate a chargeback request.  The system must prompt the user to enter the required information to initiate a chargeback request. The chargeback request results in a printed chargeback notification that is sent to merchant indicating that their account will be charged back if no proof is provided that the disputed transaction is valid.","label":[[45,84,"concern"],[103,118,"concern"]]}
+{"id":1047,"text":"The Disputes System must provide a confirmation to the user upon the creation of a chargeback request. The confirmation must contain the following information; the dispute case number  the type of chargeback requested (pending or immediate)  and the date that the merchant response is due.","label":[[27,49,"concern"],[127,160,"concern"]]}
+{"id":1048,"text":"The Disputes System shall prevent the creation of duplicate dispute requests 100% of the time.","label":[[27,47,"concern"],[78,83,"concern"]]}
+{"id":1049,"text":"The Disputes System shall accurately provide a list of possible reason codes for a given transaction.  The list of possible reason codes must be derived based on the type of transaction and the industry that the merchant belongs to  according to the business rules defined for the Disputes System.","label":[[28,39,"concern"],[39,78,"concern"],[147,154,"concern"]]}
+{"id":1050,"text":"The Disputes System must provide the ability to view existing dispute cases.","label":[[49,76,"concern"]]}
+{"id":1051,"text":"The Disputes System must provide Search functionality.  The search method must include the ability to search by (1) the dispute case number  (2) the merchant account number  (3) the cardmember account number and (4) the issuer number.  In addition to the above criteria  the search functionality must further allow the user to limit the results of the search by a date range  the type of dispute (ticket retrieval request or chargeback notification)  the case status (open  closed or all) and the dispute reason code.","label":[[27,55,"concern"],[81,100,"concern"],[104,111,"concern"]]}
+{"id":1052,"text":"A list of all disputes cases that meet the entered search criteria must be provided to the user.  The list of cases must differentiate the type and/or status of the case by color -coding the line item in the list.  For example all open cases will be yellow and all closed cases will be gray.","label":[[76,84,"concern"],[122,158,"concern"]]}
+{"id":1053,"text":"The Disputes System shall provide the users the ability to view the history of all activities that have occurred on the dispute case.","label":[[60,94,"concern"]]}
+{"id":1054,"text":"The Dispute System shall provide the users with the ability to follow up on a dispute case via follow-up actions.  The list of available follow up actions for a given dispute case must be filtered by the status of the case and the access level of the user.","label":[[64,91,"concern"],[189,197,"concern"]]}
+{"id":1055,"text":"The Disputes System shall record the name of the user and the date for any activity that creates or modifies the disputes case in the system.  A detailed history of the actions taken on the case  including the date and the user that performed the action must be maintained for auditing purposes.","label":[[28,43,"concern"]]}
+{"id":1056,"text":"For any systematic (non-user initiated) action that occurs on a case such as the disputes aging process  a case activity will be generated.  Upon the next logon the user that initiated the dispute case must be notified that a systematic action has occurred on the dispute case.","label":[[212,220,"concern"]]}
+{"id":1057,"text":"All letter requests must be formatted according to guidelines specified by the Print Letter Utility system.","label":[[29,38,"concern"]]}
+{"id":1058,"text":"Any disputes cases that have been closed for over 6 months must be purged from the online disputes database.","label":[[68,74,"concern"]]}
+{"id":1059,"text":"The product must support Internet Explorer 5.5 and above.","label":[[18,25,"concern"]]}
+{"id":1060,"text":"The product must support Mozilla Firefox 1.0 and above.","label":[[18,26,"concern"]]}
+{"id":1061,"text":"The product shall interface with the Choice Parts System.  This provides the feed of recycled parts data.","label":[[19,29,"concern"]]}
+{"id":1062,"text":"The product shall run on the existing hardware for all environments.","label":[[19,47,"concern"]]}
+{"id":1063,"text":"The product shall adhere to the corporate Architecture guidelines","label":[[19,66,"concern"]]}
+{"id":1064,"text":"The product shall comply with corporate User Interface Guidelines","label":[[19,66,"concern"]]}
+{"id":1065,"text":"The product shall comply with corporate color scheme","label":[[19,53,"concern"]]}
+{"id":1066,"text":"The appearance of the product shall appear professional","label":[[37,56,"concern"]]}
+{"id":1067,"text":"The product shall be easy to use by Adjusters and Collision Estimators.  95% of Adjusters and Collision Estimators shall find the product easy to use.","label":[[22,33,"concern"],[74,78,"concern"]]}
+{"id":1068,"text":"The product shall increase productivity of Collision Estimators. 80% of the Collision Estimators shall agree their productivity has increase within 1 month of using the product.","label":[[19,40,"concern"],[65,70,"concern"]]}
+{"id":1069,"text":"Users shall feel satisfied using the product.  85% of all users will be satisfied with the product.","label":[[48,52,"concern"],[74,100,"concern"]]}
+{"id":1070,"text":"The product shall be easy to learn by Adjusters and Collision Estimators.  The product shall be learned with two days onsite training","label":[[22,35,"concern"],[97,105,"concern"],[110,134,"concern"]]}
+{"id":1071,"text":"The user shall easily locate instructions while using the product.  User help can be found within 90% of the system.","label":[[16,42,"concern"],[99,103,"concern"]]}
+{"id":1072,"text":"The search for recycled parts shall take no longer than 15 seconds.  The search results shall be returned in under 15 seconds.","label":[[57,67,"concern"],[98,106,"concern"],[110,126,"concern"]]}
+{"id":1073,"text":"The search for the preferred repair facility shall take no longer than 8 seconds.  The preferred repair facility is returned within 8 seconds","label":[[72,81,"concern"],[133,142,"concern"]]}
+{"id":1074,"text":"The recycled parts audit report shall be returned to the user within 10 seconds.  The audit report shall be returned within 10 seconds.","label":[[42,50,"concern"],[70,80,"concern"],[125,135,"concern"]]}
+{"id":1075,"text":"The preferred repair facility ratings shall be saved within 5 seconds. The save shall occur within 5 seconds.","label":[[48,53,"concern"],[61,70,"concern"],[87,93,"concern"],[100,101,"concern"],[102,109,"concern"]]}
+{"id":1076,"text":"The product shall adhere to the corporate online availability schedule.  The application is brought down only within 98% of the scheduled outages per the availability schedule.","label":[[19,26,"concern"],[118,122,"concern"]]}
+{"id":1077,"text":"The product shall achieve a 98% uptime. The product shall not fail more than 2% of the available online time.","label":[[29,33,"concern"],[60,68,"concern"],[79,82,"concern"]]}
+{"id":1078,"text":"The product shall be able to handle up to 1500 simultaneous users. The system shall perform with 1500 users as a time.","label":[[30,39,"concern"],[43,66,"concern"],[85,93,"concern"],[98,102,"concern"],[103,108,"concern"],[109,118,"concern"]]}
+{"id":1079,"text":"The average number of recycled parts records per day shall be 50 000.","label":[[24,32,"concern"],[64,70,"concern"]]}
+{"id":1080,"text":"The product shall be able to handle 10 000 concurrent users within 2 years of the initial launch.","label":[[31,38,"concern"],[38,61,"concern"],[69,76,"concern"]]}
